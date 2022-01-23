@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.container-form{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+.h-2{
+    color: #fff;
+}
+
+.form-style{
+    color: white;
+    font-weight: bold;
+    background-color: #424242;
+    border: 1px solid #424242;
+    border-radius: 5px;
+}
