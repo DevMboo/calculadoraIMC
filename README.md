@@ -7,4 +7,4 @@ de uma calculadora de IMC na web, com retorno de feedback dinamico.
 
 Development of a calculator with JAVASCRIPT.
 Using HTML, CSS, BOOTSTRAP 5 and Javascript for development
-from a web-based BMI calculator with dynamic feedback feedback.
+from a web-based BMI calculator with dynamic feedback.
